@@ -1,0 +1,9 @@
+Sliter.IO Zoom Tool
+==============================
+When you are in game, hit the key <f12> to open the browser's inspect function. 
+Click on the tab "Console." Here you will see a little arrow pointing to the right.
+Drag the included js file where the pointing arrow is, and hit the <enter> key.
+Using your mousewheel, you can zoom in/out inside your game!
+------------------------------
+Provided by *Kayzio Groups*
+
